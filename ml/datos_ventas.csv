@@ -1,0 +1,104 @@
+﻿pedido,fecha_pedido,cliente,vendedor,producto,cantidad,precio_unitario,estado
+19,2026-01-01 10:27:27,Juan Pérez,María González - Supervisor,Envase shampoo 750ml,204,3.9,entregado
+46,2026-01-03 14:04:23,Ferretería El Tornillo,Administrador del Sistema,Bidón 5L,55,12.5,entregado
+42,2026-01-03 17:00:37,Juan Pérez,Juan Pérez - Operario,Bidón 5L,73,12.5,entregado
+45,2026-01-05 09:29:50,Ferretería El Tornillo,Pedro Condori,Botella PET 1L,419,3.8,entregado
+14,2026-01-09 11:32:20,Constructora ABC S.R.L.,María González - Supervisor,Envase shampoo 750ml,463,3.9,entregado
+95,2026-01-09 14:12:54,Ferretería El Tornillo,María González - Supervisor,Tapa rosca estándar,674,0.3,entregado
+101,2026-01-11 14:59:45,Juan Pérez,Carlos Quispe,Envase industrial 2L,30,6.5,entregado
+58,2026-01-13 09:45:15,Constructora ABC S.R.L.,María González - Supervisor,Tapa PVC,151,2.25,entregado
+2,2026-01-15 10:00:00,Juan Pérez,Juan Pérez - Operario,Botella PET 500ml,150,2.5,entregado
+17,2026-01-17 17:23:02,Ferretería El Tornillo,Administrador del Sistema,Envase industrial 2L,34,6.5,entregado
+76,2026-01-19 09:42:56,Constructora ABC S.R.L.,Administrador del Sistema,Tapa flip-top,281,0.8,entregado
+29,2026-01-19 11:18:51,Juan Pérez,María González - Supervisor,Tapa PVC,186,2.25,entregado
+80,2026-01-19 12:01:09,Ferretería El Tornillo,María González - Supervisor,Tubería PVC 4 pulgadas,47,25.5,entregado
+11,2026-01-19 14:07:51,Constructora ABC S.R.L.,Carlos Quispe,Tapa rosca estándar,431,0.3,entregado
+7,2026-01-22 14:54:57,Juan Pérez,Pedro Condori,Codo PVC 90°,68,3.75,entregado
+66,2026-01-28 13:46:41,Juan Pérez,Juan Pérez - Operario,Botella PET 1L,154,3.8,entregado
+16,2026-01-29 14:20:19,Juan Pérez,Administrador del Sistema,Botella PET 500ml,127,2.5,entregado
+35,2026-02-08 10:54:39,Constructora ABC S.R.L.,María González - Supervisor,Codo PVC 90°,390,3.75,entregado
+3,2026-02-10 11:00:00,Ferretería El Tornillo,María González - Supervisor,Botella PET 1L,100,3.8,entregado
+41,2026-02-11 11:37:39,Juan Pérez,Carlos Quispe,Tapa PVC,302,2.25,entregado
+24,2026-02-13 14:00:16,Constructora ABC S.R.L.,Carlos Quispe,Envase detergente 1L,145,4.2,entregado
+98,2026-02-13 17:45:03,Ferretería El Tornillo,Juan Pérez - Operario,Tapa PVC,112,2.25,entregado
+15,2026-02-14 13:17:44,Juan Pérez,Administrador del Sistema,Tapa flip-top,547,0.8,entregado
+75,2026-02-18 09:54:56,Constructora ABC S.R.L.,Pedro Condori,Envase industrial 2L,42,6.5,entregado
+20,2026-02-26 11:15:42,Ferretería El Tornillo,Juan Pérez - Operario,Tapa rosca estándar,604,0.3,entregado
+71,2026-02-27 12:24:16,Juan Pérez,Pedro Condori,Envase industrial 2L,125,6.5,entregado
+72,2026-03-07 09:41:23,Constructora ABC S.R.L.,Juan Pérez - Operario,Tapa rosca estándar,925,0.3,entregado
+62,2026-03-09 16:23:03,Ferretería El Tornillo,Pedro Condori,Bidón 5L,149,12.5,entregado
+74,2026-03-18 08:52:37,Ferretería El Tornillo,Carlos Quispe,Botella PET 1L,445,3.8,entregado
+4,2026-03-20 14:00:00,Constructora ABC S.R.L.,Carlos Quispe,Tubería PVC 4 pulgadas,30,25.5,entregado
+90,2026-03-20 14:12:23,Constructora ABC S.R.L.,Carlos Quispe,Envase shampoo 750ml,499,3.9,entregado
+10,2026-03-23 13:29:58,Constructora ABC S.R.L.,Administrador del Sistema,Tapa rosca estándar,256,0.3,entregado
+23,2026-03-24 10:34:10,Constructora ABC S.R.L.,Pedro Condori,Tapa rosca estándar,556,0.3,entregado
+64,2026-04-05 13:10:46,Juan Pérez,Carlos Quispe,Tapa PVC,294,2.25,entregado
+55,2026-04-07 16:23:23,Ferretería El Tornillo,María González - Supervisor,Envase detergente 1L,451,4.2,entregado
+103,2026-04-09 08:41:55,Ferretería El Tornillo,Juan Pérez - Operario,Tubería PVC 4 pulgadas,45,25.5,entregado
+81,2026-04-11 15:03:22,Ferretería El Tornillo,Juan Pérez - Operario,Codo PVC 90°,96,3.75,entregado
+21,2026-04-12 11:47:10,Juan Pérez,Administrador del Sistema,Botella PET 1L,73,3.8,entregado
+26,2026-04-12 16:27:07,Juan Pérez,Pedro Condori,Botella PET 500ml,405,2.5,entregado
+31,2026-04-13 14:11:57,Constructora ABC S.R.L.,Administrador del Sistema,Envase shampoo 750ml,283,3.9,entregado
+54,2026-04-15 14:27:38,Juan Pérez,Juan Pérez - Operario,Envase industrial 2L,54,6.5,entregado
+63,2026-04-17 12:59:31,Juan Pérez,Pedro Condori,Envase shampoo 750ml,383,3.9,entregado
+36,2026-04-17 14:40:41,Constructora ABC S.R.L.,Carlos Quispe,Tapa PVC,60,2.25,entregado
+61,2026-04-18 17:53:07,Ferretería El Tornillo,Administrador del Sistema,Envase industrial 2L,30,6.5,entregado
+67,2026-04-19 10:21:50,Juan Pérez,María González - Supervisor,Envase detergente 1L,74,4.2,entregado
+34,2026-04-21 10:57:07,Juan Pérez,Carlos Quispe,Tubería PVC 4 pulgadas,14,25.5,entregado
+100,2026-04-22 10:57:02,Ferretería El Tornillo,Administrador del Sistema,Tapa rosca estándar,929,0.3,entregado
+30,2026-04-23 13:18:59,Constructora ABC S.R.L.,Carlos Quispe,Envase detergente 1L,330,4.2,entregado
+52,2026-04-25 09:42:28,Ferretería El Tornillo,Carlos Quispe,Tapa flip-top,895,0.8,entregado
+96,2026-04-25 11:02:20,Juan Pérez,María González - Supervisor,Envase detergente 1L,455,4.2,entregado
+83,2026-04-25 16:14:17,Constructora ABC S.R.L.,Administrador del Sistema,Codo PVC 90°,53,3.75,entregado
+69,2026-04-26 16:10:47,Ferretería El Tornillo,Administrador del Sistema,Botella PET 1L,182,3.8,entregado
+70,2026-05-05 11:40:50,Constructora ABC S.R.L.,Pedro Condori,Bidón 5L,196,12.5,entregado
+13,2026-05-09 10:16:12,Constructora ABC S.R.L.,Juan Pérez - Operario,Envase shampoo 750ml,408,3.9,entregado
+84,2026-05-11 15:10:48,Juan Pérez,María González - Supervisor,Tapa flip-top,334,0.8,entregado
+50,2026-05-14 12:08:34,Juan Pérez,Juan Pérez - Operario,Envase industrial 2L,89,6.5,entregado
+9,2026-05-17 12:43:27,Constructora ABC S.R.L.,María González - Supervisor,Envase detergente 1L,458,4.2,entregado
+73,2026-05-23 10:44:56,Ferretería El Tornillo,Juan Pérez - Operario,Envase shampoo 750ml,184,3.9,entregado
+97,2026-05-23 17:22:44,Juan Pérez,Administrador del Sistema,Tapa rosca estándar,589,0.3,entregado
+6,2026-05-27 14:48:29,Ferretería El Tornillo,Carlos Quispe,Envase industrial 2L,111,6.5,entregado
+68,2026-05-27 14:48:53,Constructora ABC S.R.L.,Juan Pérez - Operario,Tapa flip-top,301,0.8,entregado
+38,2026-05-28 10:07:20,Juan Pérez,Juan Pérez - Operario,Codo PVC 90°,332,3.75,entregado
+60,2026-06-02 17:16:32,Ferretería El Tornillo,Juan Pérez - Operario,Envase shampoo 750ml,388,3.9,entregado
+12,2026-06-04 15:26:47,Ferretería El Tornillo,Carlos Quispe,Tapa rosca estándar,557,0.3,entregado
+88,2026-06-05 13:18:46,Juan Pérez,Carlos Quispe,Botella PET 1L,389,3.8,entregado
+99,2026-06-05 15:32:30,Juan Pérez,Administrador del Sistema,Botella PET 500ml,254,2.5,entregado
+27,2026-06-09 13:03:59,Juan Pérez,Pedro Condori,Codo PVC 90°,354,3.75,entregado
+43,2026-06-09 13:25:17,Ferretería El Tornillo,Pedro Condori,Tapa rosca estándar,925,0.3,entregado
+56,2026-06-09 14:03:52,Ferretería El Tornillo,Carlos Quispe,Botella PET 500ml,376,2.5,entregado
+8,2026-06-13 11:13:02,Juan Pérez,Administrador del Sistema,Tapa flip-top,472,0.8,entregado
+37,2026-06-14 12:33:11,Juan Pérez,Juan Pérez - Operario,Envase industrial 2L,132,6.5,entregado
+104,2026-06-15 10:11:31,Ferretería El Tornillo,Pedro Condori,Envase shampoo 750ml,132,3.9,entregado
+79,2026-06-18 17:13:51,Ferretería El Tornillo,Pedro Condori,Botella PET 1L,498,3.8,entregado
+28,2026-06-19 13:10:22,Ferretería El Tornillo,Juan Pérez - Operario,Envase detergente 1L,320,4.2,entregado
+82,2026-06-20 11:40:32,Constructora ABC S.R.L.,Administrador del Sistema,Codo PVC 90°,190,3.75,entregado
+53,2026-06-21 10:55:13,Constructora ABC S.R.L.,Pedro Condori,Botella PET 1L,281,3.8,entregado
+57,2026-06-22 17:45:55,Constructora ABC S.R.L.,Administrador del Sistema,Envase detergente 1L,177,4.2,entregado
+65,2026-06-24 14:45:44,Ferretería El Tornillo,Administrador del Sistema,Envase shampoo 750ml,228,3.9,entregado
+49,2026-06-30 15:53:19,Constructora ABC S.R.L.,Juan Pérez - Operario,Botella PET 500ml,268,2.5,entregado
+22,2026-07-05 08:29:07,Juan Pérez,Administrador del Sistema,Tapa PVC,427,2.25,entregado
+40,2026-07-13 12:48:36,Ferretería El Tornillo,María González - Supervisor,Tapa flip-top,470,0.8,entregado
+25,2026-07-24 16:29:58,Ferretería El Tornillo,María González - Supervisor,Envase detergente 1L,221,4.2,entregado
+91,2026-07-25 17:34:22,Constructora ABC S.R.L.,Carlos Quispe,Envase detergente 1L,173,4.2,entregado
+47,2026-07-30 08:03:02,Ferretería El Tornillo,Juan Pérez - Operario,Botella PET 500ml,437,2.5,entregado
+5,2026-08-05 13:18:11,Ferretería El Tornillo,Juan Pérez - Operario,Codo PVC 90°,462,3.75,entregado
+78,2026-08-05 14:50:38,Juan Pérez,María González - Supervisor,Botella PET 1L,234,3.8,entregado
+94,2026-08-06 14:36:09,Constructora ABC S.R.L.,Juan Pérez - Operario,Envase industrial 2L,126,6.5,entregado
+87,2026-08-16 10:22:05,Juan Pérez,Juan Pérez - Operario,Tapa flip-top,907,0.8,entregado
+102,2026-08-16 14:49:58,Constructora ABC S.R.L.,Administrador del Sistema,Envase industrial 2L,135,6.5,entregado
+59,2026-08-17 08:38:42,Constructora ABC S.R.L.,Pedro Condori,Botella PET 500ml,274,2.5,entregado
+77,2026-09-04 10:45:13,Juan Pérez,Carlos Quispe,Envase shampoo 750ml,249,3.9,entregado
+44,2026-09-05 13:49:55,Constructora ABC S.R.L.,Carlos Quispe,Envase shampoo 750ml,62,3.9,entregado
+51,2026-09-06 17:49:35,Constructora ABC S.R.L.,Carlos Quispe,Envase detergente 1L,435,4.2,entregado
+32,2026-09-09 14:40:11,Ferretería El Tornillo,Administrador del Sistema,Tubería PVC 4 pulgadas,38,25.5,entregado
+48,2026-09-11 16:20:16,Constructora ABC S.R.L.,Pedro Condori,Envase detergente 1L,286,4.2,entregado
+89,2026-09-12 17:03:20,Juan Pérez,Pedro Condori,Tubería PVC 4 pulgadas,41,25.5,entregado
+86,2026-09-15 14:33:24,Ferretería El Tornillo,Juan Pérez - Operario,Tapa PVC,421,2.25,entregado
+85,2026-09-18 08:55:58,Juan Pérez,Pedro Condori,Codo PVC 90°,320,3.75,entregado
+33,2026-09-19 10:11:33,Juan Pérez,Carlos Quispe,Tapa flip-top,881,0.8,entregado
+92,2026-09-19 10:58:57,Constructora ABC S.R.L.,Carlos Quispe,Envase industrial 2L,69,6.5,entregado
+93,2026-09-20 10:28:55,Ferretería El Tornillo,Juan Pérez - Operario,Envase detergente 1L,433,4.2,entregado
+18,2026-09-21 14:08:18,Constructora ABC S.R.L.,María González - Supervisor,Botella PET 500ml,142,2.5,entregado
+39,2026-09-22 17:30:56,Constructora ABC S.R.L.,Juan Pérez - Operario,Tapa flip-top,741,0.8,entregado
